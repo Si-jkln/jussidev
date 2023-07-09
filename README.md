@@ -12,4 +12,4 @@
 </div></br>
 
 ### <b>Cursando desenvolvimento de software</b></br>
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+Uma linguagem não faz seu código ser bom, programadores bons fazem seu código ser bom.
