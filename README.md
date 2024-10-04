@@ -11,5 +11,4 @@
 <img align="center" alt=html5 src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black%22%3E">
 </div></br>
 
-### <b>Cursando desenvolvimento de software</b></br>
-Uma linguagem não faz seu código ser bom, programadores bons fazem seu código ser bom.
+### <b>Cursando Engenharia de Software</b></br>
